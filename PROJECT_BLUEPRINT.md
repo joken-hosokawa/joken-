@@ -156,7 +156,7 @@ CREATE TABLE IF NOT EXISTS post_revisions (
 ## 7. 🚩 開発ロードマップ (Development Roadmap)
 
 ### Phase 1: 共通CSS ＆ クラウドデプロイ基盤
-* [x] デジタル庁 UD デザイン準拠 `style.css` の策定
+* [ ] デジタル庁 UD デザイン準拠 `style.css` の策定
 * [ ] GitHub リポジトリ (`joken-jp`) への構成整理と push
 * [ ] Cloudflare Pages デプロイ & D1 / R2 バインディング設定
 
